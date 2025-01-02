@@ -10,7 +10,7 @@ Medidas en milímetros. Se requiere French Cleat.
 
 |   |   |
 |----|----|
-| Madera | Plancha Estructural  |
+| Madera | Plancha Terciado Estructural  |
 | Medida | 15mm |
 
 ### Cortes plancha 15mm
