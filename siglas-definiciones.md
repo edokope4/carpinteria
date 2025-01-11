@@ -69,6 +69,8 @@
 
 # V
 
+**Vano**: Un vano es un espacio vacío dentro de una estructura arquitectónica o constructiva. Por lo general son para poner puertas, ventanas, entradas de luz, etc.
+
 **Viga**: Es un elemento estructural horizontal, diseñado para soportar cargas y transmitirlas a los soportes verticales (columnas, muros, pies derechos). Sirve para garantizar la estabilidad de techos, pisos y otras partes de una estructura.
 
 Existen **3 tipos de vigas**:
