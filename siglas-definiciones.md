@@ -47,7 +47,7 @@
 # S
 
 
-SIP (Structural Insulated Panels) 
+**SIP**: (Structural Insulated Panels) (Paneles aislantes estructurales).  son un sistema de construcción compuesto por un núcleo de material aislante, generalmente de espuma rígida, encapsulado entre dos capas exteriores de materiales estructurales, como tableros de OSB (Oriented Strand Board), madera contrachapada o materiales similares.
 
 ----
 
